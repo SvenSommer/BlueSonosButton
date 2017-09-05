@@ -1,7 +1,7 @@
 # BlueSonosButton
 This script lets you control you SONOS speakers with a Bluetooth Button.
 
-![Image of a Bluetooth button in front of a sonos speaker]https://github.com/SvenSommer/BlueSonosButton/blob/master/bluetoothSonosButton.jpg?raw=true)
+![Image of a Bluetooth button in front of a sonos speaker](https://github.com/SvenSommer/BlueSonosButton/blob/master/bluetoothSonosButton.jpg?raw=true)
 
 Sending commands from a cheap bluetooth button to a SONOS speaker is achived by using a RaspberryPi. <br> Once the paired bluetooth button sends a command to the Pi, it's forwarded to an HTTP based Api controlling the Sonos Speakers.
 
